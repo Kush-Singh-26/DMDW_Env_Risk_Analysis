@@ -8,3 +8,4 @@ uv.lock
 03_Classfication.ipynb
 04_Association_Rule_mining.ipynb
 05_Temporal_analysis.ipynb
+*.joblib
